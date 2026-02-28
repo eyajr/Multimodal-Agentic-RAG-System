@@ -1,0 +1,16 @@
+# Deep learning and image processing
+torch
+torchvision
+numpy
+matplotlib
+Pillow
+streamlit
+langchain
+langchain-openai
+langchain-community
+openai
+pypdf
+qdrant-client
+sentence-transformers
+dotenv
+groq
